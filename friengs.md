@@ -6,4 +6,4 @@ title: friends
 Berikut teman-teman saya dikelas:
 -[Saidil Mustafa](https://bojesmoestave.github.io/bojesmoestave-github.io/)
 -[Malikul Mulki](https://mulki1607.github.io/Mulki1607-github.io/)
--[Nurul Fadila]()
+-[Nurul Fadila](https://dilaaaaaaa06.github.io/dilaaaa.github.io/)
